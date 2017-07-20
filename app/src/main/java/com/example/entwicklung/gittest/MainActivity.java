@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         Log.e("local branche","Lokal branche");
         Log.e("local brancheww","Lokal branchewwww");
         Log.e("local branchewwssss","Lokal branchewwww");
+        Log.e("local branchewwssss","Lokal branchewwww");
 
     }
 }
