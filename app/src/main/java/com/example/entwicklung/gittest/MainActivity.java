@@ -12,5 +12,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.e("FFFFF","vnmhvmhnvm");
         Log.e("FFFFF555","vnmhvmhnvm55555");
+        Log.e("hgjhgj","jkjkjhlkhklkhlkhlö");
+        Log.e("local branche","Lokal branche");
+        Log.e("local brancheww","Lokal branchewwww");
+        Log.e("local branchewwssss","Lokal branchewwww");
+
     }
 }
